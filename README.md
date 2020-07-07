@@ -1,7 +1,7 @@
 # ClasificacionMulticlaseCNN-MNIST
 Proyecto de clasificación multiclase utilizando redes neuronales convolucionales con el dataset MNIST
 
-##Datos del proyecto
+## Datos del proyecto
 Dataset: MNIST, a través de Keras
 
 Descripción del dataset: 60000 imágenes en blanco y negro de números manuscritos
